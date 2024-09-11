@@ -28,6 +28,7 @@ Currently, I have a keen interest in the fields of data science and machine lear
     <a href="https://github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" height="40"/> </a> 
     <a href="https://www.kaggle.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="Kaggle" width="40" height="40"/> </a> 
     <a href="https://www.w3schools.com/" target="_blank"> <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo.svg" alt="W3Schools" width="40" height="40"/> </a> 
+    <a href="https://keras.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="40" height="40"/> </a> 
   </p>
 </details>
 
