@@ -13,7 +13,7 @@ Currently, I have a keen interest in the fields of data science and machine lear
 
 
 
-<details>
+<details open>
   <summary><b>🛠️&nbsp;&nbsp;LANGUAGES&nbsp;and&nbsp;TOOLS</b></summary>
   <br/>
   <p align="left"> 
