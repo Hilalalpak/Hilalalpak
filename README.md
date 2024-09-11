@@ -30,7 +30,7 @@ Currently, I have a keen interest in the fields of data science and machine lear
     <a href="https://www.w3schools.com/" target="_blank"> <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo.svg" alt="W3Schools" width="40" height="40"/> </a> 
     <a href="https://keras.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="40" height="40"/> </a> 
     <a href="https://www.tensorflow.org/?hl=tr" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/TensorFlow_logo.svg" alt="TensorFlow" width="40" height="40"/> </a> 
-    <a href="https://pytorch.org" target="_blank"> <img src="https://commons.wikimedia.org/wiki/File:PyTorch_logo_icon.svg" alt="YyTorch" width="40" height="40"/> </a> 
+    <a href="https://pytorch.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/> </a> 
   </p>
 </details>
 
