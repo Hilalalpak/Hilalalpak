@@ -3,7 +3,7 @@ Currently, I have a keen interest in the fields of data science and machine lear
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 - 🔭 &nbsp;I'm developing a machine learning model to predict stock prices accurately. :wink:
 - 🌱 &nbsp;I’m currently learning Machine Learning and I'm exactly like the guy in the gif 🔥🤯😅
-- 💬 &nbsp;Ask me about anything related to Python/SQL or ML//Feature Engineering
+- 💬 &nbsp;Ask me about anything related to Python/SQL or DL//ML
 - 🌟 &nbsp;Fun fact: I :heart: :dog:s , Calisthenics 🤸🏽 and Hiking ⛰️🧗‍♀️
 
 🔗 &nbsp;**Connect with me**
