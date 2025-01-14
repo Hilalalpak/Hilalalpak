@@ -6,10 +6,13 @@ Currently, I have a keen interest in the fields of data science and machine lear
 - 💬 &nbsp;Ask me about anything related to Python/SQL or DL//ML
 - 🌟 &nbsp;Fun fact: I :heart: :dog:s , Calisthenics 🤸🏽 and Hiking ⛰️🧗‍♀️
 
-🔗 &nbsp;**Connect with me**
-<p align="left">
-<a href="https://www.linkedin.com/in/hilal-alpak-98173b130/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://medium.com/@hhilalalpak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="hhilalalpak" height="30" width="40" /></a>
+🔗 &nbsp;**Connect with me**  
+<p align="left">  
+<a href="https://www.linkedin.com/in/hilal-alpak-98173b130/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hilal-alpak" height="30" width="40" /></a>  
+<a href="https://medium.com/@hhilalalpak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="hhilalalpak" height="30" width="40" /></a>  
+<a href="https://www.kaggle.com/hilalalpak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hilalalpak" height="30" width="40" /></a>  
+</p>
+
 
 
 
