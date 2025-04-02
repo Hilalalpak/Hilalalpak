@@ -36,7 +36,10 @@ Currently, I have a keen interest in the fields of data science and machine lear
     <a href="https://www.jenkins.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/> </a>
     <a href="https://spark.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="Spark" width="40" height="40"/> </a>
     <a href="https://spark.apache.org/docs/latest/api/python/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="PySpark" width="40" height="40"/> </a>
-    <a href="https://mlflow.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mlflow/mlflow-icon.svg" alt="MLflow" width="40" height="40"/> </a>
+    <a href="https://mlflow.org/" target="_blank">
+  <a href="https://mlflow.org/" target="_blank">
+  <img src="https://user-images.githubusercontent.com/17848490/219058675-ae83b435-7432-4628-8f08-86e7a29d8fb4.svg" alt="MLflow" width="40" height="40"/>
+</a>
     <a href="https://min.io/" target="_blank"> <img src="https://min.io/resources/img/logo/MINIO_wordmark.png" alt="MinIO" width="40" height="40"/> </a>
     <a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/> </a>
     <a href="https://aws.amazon.com/s3/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS S3" width="40" height="40"/> </a>
