@@ -3,7 +3,7 @@ I’m passionate about Data Science, Machine Learning, and Deep Learning. Curren
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="180"/>
 - 🔭 &nbsp; Working on predictive ML models for stock prices.
 - 🌱 &nbsp; Continuously learning and experimenting with new ML/DL techniques.
-- 💬 &nbsp; Feel free to ask me about Python, SQL, ML, or DL!
+- 💬 &nbsp; Feel free to ask me about Python, ML, DL, MLOps!
 - 🌟 &nbsp; Fun facts: I love dogs 🐕, calisthenics 🤸🏽, and hiking ⛰️.
   
 🔗 &nbsp;**Connect with me**  
