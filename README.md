@@ -1,11 +1,13 @@
-Hello 👋 I’m Hilal!
+## Hello 👋 I’m Hilal!
 I’m passionate about Data Science, Machine Learning, and Deep Learning. Currently, I’m sharpening my skills in Python and building machine learning models, like one for accurate stock price prediction.
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="180"/>
-🔭 Working on predictive ML models for stock prices.
-🌱 Continuously learning and experimenting with new ML/DL techniques.
-💬 Feel free to ask me about Python, SQL, ML, or DL!
-🌟 Fun facts: I love dogs 🐕, calisthenics 🤸🏽, and hiking ⛰️.
-🔗 Connect with me
+- 🔭 &nbsp; Working on predictive ML models for stock prices.
+- 🌱 &nbsp; Continuously learning and experimenting with new ML/DL techniques.
+- 💬 &nbsp; Feel free to ask me about Python, SQL, ML, or DL!
+- 🌟 &nbsp; Fun facts: I love dogs 🐕, calisthenics 🤸🏽, and hiking ⛰️.
+  
+🔗 &nbsp;**Connect with me**  
 <p align="left"> <a href="https://www.linkedin.com/in/hilal-alpak-98173b130/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="35"/></a> <a href="https://medium.com/@hhilalalpak" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" width="35"/></a> <a href="https://www.kaggle.com/hilalalpak" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" width="35"/></a> </p>
-🛠️ Technologies & Tools
+
+<details open><summary><b>🛠️ &nbsp;&nbsp;Technologies&nbsp;and&nbsp;Tools</b></summary><br/
 <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="35" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" alt="NumPy" width="35" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="35" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="35" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="35" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="Keras" width="35" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="35" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="35" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="35" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="35" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQL" width="35" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" alt="AWS" width="35" /> <img src="https://user-images.githubusercontent.com/17848490/219058675-ae83b435-7432-4628-8f08-86e7a29d8fb4.svg" alt="MLflow" width="35" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="35" /> <img src="https://min.io/resources/img/logo/MINIO_wordmark.png" alt="MinIO" width="35" /> </p>
